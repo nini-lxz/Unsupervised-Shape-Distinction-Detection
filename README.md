@@ -13,7 +13,7 @@ This repository is for our ACM Transactions on Graphics (TOG) 2020 paper '[Unsup
 The testing code (test.py) is provided inside the `code` folder, and our trained network based on the ModelNet40 inter-class dataset is provided inside the `trained_model` folder.
 After running, the network will output per-point distinctiveness value for each input point.
 
-(2) You can also re-train our network either using your own training samples or our provided training dataset:  
+(2) You can also re-train our network either using your own training samples or our provided [training dataset](https://drive.google.com/open?id=1bG2UpN53U3gJ9owb0lHbPsCich5BwFuy):  
 The training code (train.py) is provided inside the `code` folder.
 
 (3) Visualization:  
