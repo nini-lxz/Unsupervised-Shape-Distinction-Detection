@@ -10,6 +10,7 @@ This repository is for our ACM Transactions on Graphics (TOG) 2020 paper '[Unsup
 
 ### Usage
 The code is tested under TF1.9.0 and Python 2.7 on Ubuntu 16.04.
+
 (1) You can directly test your sampled point clouds using our previously-trained network:  
 The testing code (test.py) is provided inside the `code` folder, and our trained network based on the ModelNet40 inter-class dataset is provided inside the `trained_model` folder.
 After running, the network will output per-point distinctiveness value for each input point.
