@@ -26,7 +26,7 @@ def draw_activation(input_pts, input_qualities, log_dir, folder, method='region'
     """
     model_num = input_pts.shape[0]
     total_path = ROOT_DIR + "/" + log_dir + "/" + folder + "/html/"
-    print total_path
+    print(total_path)
     if not os.path.exists(total_path):
         os.makedirs(total_path)
 
