@@ -24,5 +24,5 @@ The training code (train.py) is provided inside the `code` folder.
 After obtaining the per-point distinctiveness, please use the provided Matlab code (inside the `visualization` folder) for shape distinction visualization.
 
 ### Questions
-Please constact 'lixianzhi123@gmail.com'
+Please contact 'lixianzhi123@gmail.com'
 
