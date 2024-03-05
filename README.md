@@ -17,7 +17,7 @@ For the tf_ops, you may need to re-compile using 'sh compile_ops.sh'
 The testing code (test.py) is provided inside the `code` folder, and our trained network based on the ModelNet40 inter-class dataset is provided inside the `trained_model` folder.
 After running, the network will output per-point distinctiveness value for each input point.
 
-(2) You can also re-train our network either using your own training samples or our provided [training dataset](https://gocuhk-my.sharepoint.com/:u:/g/personal/xianzhili_cuhk_edu_hk/EfA2VOQWrytEmR4awsuD5r8BJpmb3Vnv-uRsSU--ANGk9w?e=R87TQb):  
+(2) You can also re-train our network either using your own training samples or our provided [training dataset](https://pan.baidu.com/s/10nzcz2YYb3ovqW_OO8vAZA?pwd=hjff):  
 The training code (train.py) is provided inside the `code` folder.
 
 (3) Visualization:  
